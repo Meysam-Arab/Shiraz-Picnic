@@ -1,0 +1,38 @@
+/* Set default font-family */
+@font-face {
+    font-family: 'IranNastaliq'; /*a name to be used later*/
+    src: url('../fonts/IranNastaliq.ttf'); /*URL to font*/
+}
+
+/* Set default font-family */
+#editor-container {
+    font-family: "B Roya";
+    font-size: 18px;
+    height: 375px;
+}
+
+.ql-snow .ql-picker.ql-font .ql-picker-label[data-value='B Roya']::before,
+.ql-snow .ql-picker.ql-font .ql-picker-item[data-value='B Roya']::before
+{
+    content: 'B Roya';
+    font-family: 'B Roya';
+}
+
+.ql-snow .ql-picker.ql-font .ql-picker-label[data-value='IranNastaliq']::before,
+.ql-snow .ql-picker.ql-font .ql-picker-item[data-value='IranNastaliq']::before
+{
+    content: 'IranNastaliq';
+    font-family: 'IranNastaliq';
+}
+
+/****************************************************
+Set the font-family content used for the HTML content.
+*****************************************************/
+
+.ql-font-IranNastaliq {
+    font-family: 'IranNastaliq';
+}
+
+.ql-font-BRoya {
+    font-family: 'B Roya';
+}
