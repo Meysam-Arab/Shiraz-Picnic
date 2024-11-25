@@ -219,7 +219,7 @@ $date = $sec->format($dayofWeek . ' %d %B ، %Y');
 <script src="{{URL::to('assets-new1/vendors/counter-up/jquery.counterup.js')}}"></script>
 <script src="{{URL::to('assets-new1/js/mail-script.js')}}"></script>
 <!--gmaps Js-->
-{{--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>--}}
+{{--<script src="https://maps.googleapis.com/maps/api/js?key=yourkey"></script>--}}
 {{--<script src="{{URL::to('assets-new1/js/gmaps.min.js')}}"></script>--}}
 <script src="{{URL::to('assets-new1/js/theme.js')}}"></script>
 
