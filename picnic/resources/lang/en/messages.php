@@ -1,0 +1,482 @@
+<?php
+
+return [
+    'welcome' => 'Welcome to ShirazPicnic',
+
+    'lblPicnic' => 'ShirazPicnic',
+    'lblName' => 'Name',
+    'lblFamily' => 'Family',
+    'lblBirthDate' => 'Birth Date',
+    'lblFatherName' => 'Father Name',
+    'lblDescription' => 'Description',
+    'lblAllowComment' => 'Allow Comment',
+    'lblMap' => 'Show On Map',
+    'lblPictureAlbum' => 'Picture',
+    'lblPictureAlbumCount' => 'Picture Album Count',
+    'lblVideoAlbum' => 'Video',
+    'lblVideoAlbumCount' => 'Video Album Count',
+    'lblNumber' => 'Number',
+    'lblToman' => 'Toman',
+    'lblYear' => 'Year',
+    'lblDearUser' => 'Dear User',
+    'lblEmail' => 'Email',
+    'lblEmailOrMobile' => 'Email/Mobile',
+    'lblPassword' => 'Password',
+    'lblNewPassword' => 'New Password',
+    'lblOldPassword' => 'Old Password',
+    'lblPasswordConfirmation' => 'Repeat Password',
+    'lblRememberMe' => 'Remember Me',
+    'lblForgetPassword' => 'Forget Your Password?',
+    'lblLogin' => 'Login',
+    'lblLogout' => 'Logout',
+    'lblLoginToSystem' => 'Login To System',
+    'lblType' => 'Type',
+    'lblYes' => 'Yes',
+    'lblNo' => 'No',
+    'lblRegister' => 'Register',
+    'lblEditUserProfile' => 'Edit user profile',
+    'lblRepeat_password' => 'Repeat Password',
+    'lblMobile' => 'Mobile',
+    'lblAddress' => 'Address',
+    'lblNotificationEmail' => 'Send email notifications',
+    'lblNotificationSms' => 'Send sms notifications',
+    'lblAccountNumber' => 'Account number',
+    'lblNationalCode' => 'National code',
+    'lblUserInformation' => 'User information',
+    'lblContactInformation' => 'Contact information',
+    'lblPersonalInformation' => 'Personal information',
+    'lblComplementaryInformation' => 'Complementary information',
+    'lblOperation' => 'Operation',
+    'lblStatus' => 'Status',
+    'lblStatusActive' => 'Active',
+    'lblStatusNonActive' => 'Non active',
+    'lblStatusDisapproved' => 'Disapproved',
+    'lblStatusWaitForApproval' => 'Wait for approval',
+    'lblViewCount' => 'View count',
+    'lblTitle' => 'Title',
+    'lblCompanionsCount' => 'تعداد همراهان',
+    'lblTel' => 'Tel',
+    'lblNameAndFamily' => 'First and last name',
+    'lblNameAndFamilyCompanion' => 'نام و نام خانوادگی همراه',
+    'lblNationalCodeCompanion' => 'کد ملی همراه',
+    'lblDate' => 'Date',
+    'lblDelete' => 'Delete',
+    'lblShow' => 'Show',
+    'lblUserAvatar' => 'Avatar',
+    'lblGardenClip' => 'Clip',
+    'lblGardenPicture' => 'Picture',
+    'lblLanguage' => 'Language',
+    'lblReserveInfo' => 'Reserve info',
+    'lblAmount' => 'Amount',
+    'lblTransactionResult' => 'Transaction result',
+    'lblTariffTable' => 'Pricing table',
+    'lblTotalCost' => 'Total cost',
+    'lblLanguageDirection' => 'Language direction',
+    'lblLatitude' => 'Latitude',
+    'lblLongitude' => 'Longitude',
+    'lblCountry' => 'Country',
+    'lblProvince' => 'Province',
+    'lblCity' => 'City',
+    'lblDigitalReceipt' => 'Digital receipt',
+    'lblOther' => 'Other',
+    'lblLink' => 'Link',
+    'lblCaptcha' => 'Insert above numbers',
+    'lblAuthority' => 'Tracking code',
+    'lblStartDateTime' => 'Start date and time',
+    'lblEndDateTime' => 'End date and time',
+    'lblRegulation' => 'Regulations',
+    'lblPeriodicHolidays' => 'Holiday days',
+    'lblSpecificHolidays' => 'Specific holidays',
+    'lblPeriodicCost' => 'Cost in each day',
+    'lblSocial' => 'Social media',
+    'lblInfo' => 'Other information',
+    'lblLikeCount' => 'Like',
+    'lblReportCount' => 'Reported times',
+    'lblOpenTime' => 'Open time',
+    'lblCloseTime' => 'Close time',
+    'lblShifts' => 'Shifts',
+    'lblCost' => 'Cost',
+    'lblSingleDay' => 'Single day',
+    'lblMultipleDay' => 'Multiple days',
+    'lblDayCount' => 'Day count',
+    'lblStartDate' => 'Start date',
+    'lblEndDate' => 'End date',
+    'lblAuthority' => 'Authority',
+    'lblReservedDates' => 'Reserved dates',
+    'lblGardenName' => 'Garden name',
+    'lblTicketNumber' => 'Ticket number',
+    'lblUserPayment' => 'Customer payment amount',
+    'lblSiteShare' => 'Site share',
+    'lblFinalReceived' => 'Final received',
+
+    'lblSauna' => 'Sauna',
+    'lblJacuzzi' => 'Jacuzzi',
+    'lblOven' => 'Oven',
+    'lblMacro' => 'Macro',
+    'lblSportsEquipment' => 'Sports equipment',
+    'lblPoolTable' => 'Pool table',
+    'lblRefrigerator' => 'Refrigerator',
+    'lblVacuumCleaner' => 'Vacuum cleaner',
+    'lblOtto' => 'Otto',
+    'lblTerrace' => 'Terrace',
+    'lblDigitalReceiver' => 'Digital receiver',
+    'lblCloset' => 'Closet',
+    'lblDrawer' => 'Drawer',
+    'lblDiningTable' => 'Dining table',
+    'lblJanitor' => 'Janitor',
+    'lblGuard' => 'Guard',
+    'lblCoolingSystem' => 'Cooling system',
+    'lblHeatingSystem' => 'Heating system',
+    'lblFurniture' => 'Furniture',
+    'lblTelevision' => 'Television',
+    'lblWashingMachine' => 'Washing machine',
+    'lblHairdryer' => 'Hairdryer',
+    'lblSurfaceArea' => 'Surface area',
+    'lblPool' => 'Pool',
+    'lblPoolCovered' => 'Pool covered',
+    'lblPoolOpen' => 'Pool open',
+    'lblGarage' => 'Garage',
+    'lblGarageOpen' => 'Garage open',
+    'lblGarageCovered' => 'Garage covered',
+    'lblCapacity' => 'Capacity',
+    'lblArbour' => 'Arbour',
+    'lblWC' => 'WC',
+    'lblWCWestern' => 'WC - western',
+    'lblWCPersian' => 'WC - persian',
+    'lblBarbecue' => 'Barbecue',
+    'lblPlumbing' => 'Plumbing',
+    'lblWiFi' => 'WiFi',
+    'lblElectricity' => 'Electricity',
+    'lblLighting' => 'Lighting',
+    'lblBuilding' => 'Building',
+    'lblFloorCount' => 'Floor count',
+    'lblElevator' => 'Elevator',
+    'lblRoomCount' => 'Room count',
+    'lblBathroom' => 'Bathroom',
+    'lblTel' => 'Tel',
+    'lblFeatures' => 'Features',
+    'lblSquireMeter' => 'Squire meter',
+    'lblHave' => 'Have',
+    'lblDontHave' => 'Dont Have',
+    'lblAddad' => 'عدد',
+    'lblCount' => 'Count',
+    'lblBathroomCount' => 'Bathroom count',
+    'lblVolleyballField' => 'Volleyball field',
+    'lblFootballField' => 'Football field',
+    'lblTennisField' => 'Tennis field',
+    'lblBasketballField' => 'Basketball field',
+    'lblFoosball' => 'Foosball field',
+    'lblPingPong' => 'Ping Pong field',
+    'lblShift' => 'Shift',
+    'lblCoordinationTel' => 'Phone for coordination',
+    'lblGenderBoth' => 'خانم و آقا',
+    'lblGenderMale' => 'آقا',
+    'lblGenderFemale' => 'خانم',
+    'lblOptionalPurchased' => 'موارد اختیاری خریداری شده',
+
+/////////////////////////////////////////
+    'btnOk' => 'Ok',
+    'btnYes' => 'Yes',
+    'btnNo' => 'No',
+    'btnSubmit' => 'Submit',
+    'btnPay' => 'Pay',
+    'btnUpdate' => 'Update',
+    'btnBack' => 'Back',
+    'btnDelete' => 'Delete',
+    'btnShow' => 'Show',
+    'btnNew' => 'New',
+    'btnDownload' => 'Download',
+    'btnTransactions' => 'Transactions',
+    'btnYourTransactions' => 'Your Transactions',
+    'btnGardens' => 'Gardens',
+    'btnTours' => 'تورها',
+    'btnGardensIndex' => 'Gardens list',
+    'btnUsersGardens' => 'Users Gardens',
+    'btnUsers' => 'Users',
+    'btnSite' => 'Site',
+    'btnReports' => 'Reports',
+    'btnFeedback' => 'Contact us',
+    'btnFeedbacks' => 'Contact us list',
+    'btnPricing' => 'Pricing',
+    'btnAbout' => 'About us',
+    'btnDetail' => 'Detail',
+    'btnEdit' => 'Edit',
+    'btnLanguages' => 'Languages',
+    'btnContinue' => 'Continue',
+    'btnSave' => 'Save',
+    'btnSearch' => 'Search',
+    'btnDetails' => 'Details',
+    'btnSend' => 'Send',
+    'btnReserves' => 'Reserves',
+    'btnWhatsShirazPicnic' => 'What\'s ShirazPicnic',
+    'btnAdd' => 'Add',
+    'btnMoreInfo' => 'More information',
+    'btnCustomization' => 'Customize',
+    'btnServices' => 'Services',
+    'btnControl' => 'Control',
+    'btnRefresh' => 'Refresh',
+    'btnReserveDetails' => 'Reserve details',
+    'btnTransactionDetails' => 'Transaction details',
+    'btnInformation' => 'Information',
+    'btnHome' => 'Home',
+    'btnLogout' => 'Logout',
+    'btnOperation' => 'Operation',
+    'btnSettle' => 'تسویه',
+
+    /// //////////////////////////////////////
+
+    'txtUndefined' => 'Undefined',
+    'txtLanguagePersian' => 'فارسی',
+    'txtLanguageEnglish' => 'English',
+    'txtAll' => 'All',
+    'txtTypePublic' => 'Public',
+    'txtTypePrivate' => 'Private',
+    'txtShiftDay' => 'Morning till night',
+    'txtShiftNight' => 'Night till morning',
+    'txtShiftFull' => 'Full day',
+    'txtUserTypeOwner' => 'Normal',
+    'txtUserTypeAdmin' => 'Admin',
+    'txtUserTypeOperator' => 'Operator',
+    'txtUserTypeGuard' => 'نگهبان',
+    'txtUserTypeLeader' => 'لیدر',
+    'txtLanguageDirection_rtl' => 'Right to left',
+    'txtLanguageDirection_ltr' => 'Left to right',
+    'txtGuest' => 'Guest',
+    'txtChoose' => 'Choose',
+    'txtReadTermsOfUse' => 'Have been read and accepted',
+    'txtTermsOfUse' => 'شرایط و قوانین استفاده از سرویس <br>
+کاربر گرامی لطفا موارد زیر را جهت استفاده بهینه از خدمات و برنامه های این سایت به دقت ملاحضه فرمائید. ورود کاربران به سایت و استفاده از پروفایل شخصی، دانلود، آپلود و رزرو و سایر خدمات به معنی آگاه بودن، پذیرفتن شرایط و قوانین و نحوه استفاده از سرویس است و در صورت نپذیرفتن آن مجوز استفاده را ندارند. <br><br>
+
+شرایط عمومی<br>
+•	این سرویس تنها رابطی بین شما و دیگر اعضاء و کاربران می باشد و هیچگونه کنترل و دخالتی بر انجام تعهدات میزبان، مهمان و دیگر کاربران ندارد. <br>
+•	دقت کنید در هنگام پرکردن فرم و لیست، اطلاعات صحیح به طور کامل ارائه گردد. <br>
+•	کاربر توافق می کند که هیچ عملکرد اشتباهی که بازتاب منفی بر سایت بگذارد انجام نخواهد داد. <br>
+•	در صورتیکه در قوانین مندرج، رویه ها و سرویس دهی ها در آینده تغییراتی ایجاد شود، در همین صفحه منتشر و به روزرسانی خواهد شد. <br>
+•	کاربر با استفاده از این سرویس ضمانت می کند که بالای ۱۸ سال سن دارد. <br>
+•	اگر کاربر نیابتاً از طرف شخص حقوقی این شرایط را می پذیرد یعنی این قدرت را دارد که آنها را پایبند به ضوابط و شرایط کند. <br>
+•	وب سایت شیراز پیک نیک، تابع قوانین کشور جمهوری اسلامی ایران بوده و اطلاعات وارد شده توسط اعضاء که مغایر با این قوانین تشخیص داده شود حذف خواهد شد. <br>
+•	همراه داشتن مدارک شناسایی و محرمیت در زمان مراجعه به مورد اجاره الزامی است و سایت شیراز پیک نیک هیچگونه مسئولیتی در این مورد ندارد. <br>
+•	سایت شیراز پیک نیک برای اطلاع یافتن شما از مطالب جدید به شما پیامک و رایانامه ارسال می کند. شما بدینوسیله موافقت خودرا با دریافت اینگونه پیام ها اعلام می دارید. همینطور شما می توانید تنظیمات دریافت پیامک و رایانامه را با ارسال یک نامه الکترونیک به آدرس info@shirazpicnic.ir تغییر دهید. <br><br>
+
+باغ یا تور<br>
+•	میزبان آگاه است و تعهد می کند که تمام اطلاعات مربوط به ملک با قوانین محلی و شرایط صاحب ملک،  مغایرت و تداخلی نخواهد داشت و همچنین پس از رزرو باغ توسط مهمان حق تغییر قیمت را ندارد. <br>
+•	باغ میزبان باید حداقل استانداردها را از نظر دسترسی، نظافت و امنیت دارا باشد. همچنین در زمان تحویل باغ میزبان یا نماینده او حضور داشته باشد. <br>
+•	سایت با در اختیار گذاشتن عکاس این امکان را برای شما فراهم می کند که عکس های حرفه ای تری از باغ خود داشته باشید. البته با حفظ حق انتشار این عکسها برای سایت. <br>
+•	اطلاعات وارد یا ویرایش شده توسط اعضاء بعد از تایید کارشناس سایت در سایت «شیراز پیک نیک» نمایش داده می‌شود. <br>
+•	تمامی تورهای تعریف شده بایستی به نمایندگی از شرکت یا آژانس های مسافرتی معتبر باشند و در صورتیکه خلاف این امر ثابت شود کلیه مسئولیت ها بر عهده فرد نماینده می باشد. <br><br>
+
+شرایط مالی رزرو<br>
+•	تنها میزبان متعهد به آماده سازی و تحویل باغ به مهمان در زمان مشخص شده می باشد و سایت هیچگونه تعهدی در این زمینه ندارد. <br>
+•	تنها میزبان متعهد به آماده سازی و مدیریت تورهای مربوط به خود می باشد و سایت هیچگونه مسئولیت یا تعهدی در این زمینه ندارد. <br>
+•	بعد از تکمیل مراحل پرداخت، یک پیام تائیدیه با جزئیات به مهمان ارسال خواهد شد. در صورت لغو قرارداد توسط مهمان چه قبل از تحویل باغ، چه در هنگام تحویل آن، استرداد مبلغ اجاره بسته به تشخیص مالک باغ است و درصد متعلق به سایت غیر قابل استرداد می باشد. <br>
+•	در صورت عدم مراجعه مهمان در زمان رزرو هيچگونه وجهي به او بازگردانده نخواهد شد و باغ در مدت زمان رزرو شده برای ایشان خالی نگه داشته می شود. <br><br>
+
+در صورت رعایت نشدن موارد زیر مهمان حق درخواست بازگشت پول خود رادارد: <br>
+•	حداقل استانداردهای باغ<br>
+•	مطابقت نداشتن با توضیحات لیست میزبان مانند متراژ، تعداد اتاق ها و<br>
+•	توضیح باغ برای خصوصی یا عمومی بودن آن . <br>
+مهمان تنها تا ۲۴ ساعت قبل از تاریخ شروع رزرو خود مهلت دارد تا یکی از موارد بالا را برای استرداد پول خود از طریق وبسایت "شیراز پیک نیک" یا تلفن 09029027302 به سایت اعلام کند. ( شرایط ذکر شده برای استرداد پول مهمان غیرقابل تغییر و جایگزینی هستند). <br>
+•	در صورت لغو رزرو توسط مالک ، مهمان می تواند انتخاب کند یا تمامی پول به او بازگردانده شود و یا با انتخاب باغ جدید، سایت پیش پرداخت را برای رزرو جدید در نظر گرفته و همچنین میزبان باید بداند که این لغو رزرو در بازخورد صفحه اش به صورت خودکار ثبت خواهد شد <br>.
+•	هرگونه اصلاح یا تغییر در رزرو توسط مهمان و یا میزبان با مسئولیت و هماهنگی خودشان صورت می گیرد و سایت هیچ دخالتی نخواهد داشت. <br>
+•	در صورتیکه سایت قراردادی را لغو کند، هیچگونه مسئولیتی برای پرداخت خسارت به میزبان و مهمان ندارد. <br><br>
+
+خسارت وارده به محل اقامت <br>
+•	مهمان وظیفه دارد باغ را همانطور که تحویل می گیرد، تحویل نیز بدهد و در صورت بروز هرگونه خسارتی توسط خودش، مهمانانش و یا افرادی که با اجازه او به باغ وارد شده اند، موظف به جبران می باشد. <br>
+•	اعلام خسارت توسط میزبان به مهمان انجام خواهد شد. در صورت توافق مهمان خسارت را پرداخت می کند. <br><br>
+
+اقامت بیش از حد بدون رضایت میزبان<br>
+•	مهمان متعهد به تحویل باغ در زمان مشخص شده در لیست میزبان می باشد در غیراینصورت میزبان اختیار بیرون کردن آنها و گرفتن جریمه ای که دو برابر مبلغ توافقی شبانه است را دارد. <br><br>
+
+اعلام سوء رفتار<br>
+•	در صورتیکه طی اقامت مهمان در باغ میزبان هر یک از طرفین شاهد رفتار نامناسب، دزدی، خشونت و غیره بودند ابتدا سریعاً به پلیس اطلاع داده و سپس سایت را مطلع می کنند. اما سایت مسئولیتی برای اقدام علیه آن افراد ندارد و تنها حساب کاربری آن فرد حذف خواهد شد. <br><br>
+
+سلب مسئولیت ها <br>
+•	این سایت هیچگونه تعهدی نسبت به سابقه و جرائم اعضاء ندارد و اگر هم بنا به صلاحدید خود درباره سابقه اعضاء تحقیق کند، دلیلی برای اعلام آن قبل از سوء استفاده عضو نمی بیند.گرچه شما با استفاده از این سایت این اجازه را به سایت می دهید که در مواقع لازم برای جلوگیری از تقلب و کلاهبرداری از اطلاعات اولیه شما مانند اسم، تاریخ تولد، رایانامه و غیره از سازمان مربوطه سوابق شما را درخواست کند و همچنین هیچ تعهدی نمی دهدکه قراردادها مطابق با انتظارات افراد و در امنیت و بدون هیچ مشکلی پیش برود. <br>
+•	سایت از هرگونه قبول کردن مسئولیت و غرامتی در زمینه کیفیت و اتفاقات رخ داده در تور ها ، باغ ها، میزبان، مهمان، سرویس ها، صداقت، اعتماد و غیره خود را مبرا می کند. <br>
+•	سایت هیچگونه مسئولیتی در قبال روابط و تعاملات کاربران با یکدیگر و یا کسانی که در نتیجه استفاده از سایت با آنها آشنا شده اید ندارد. <br><br>
+
+کاربران نباید<br>
+•	هیچ قانون محلی ، استانی، کشوری، منطقه ای و ملی را زیر پا بگذارند. <br>
+•	از سرویس برای تبلیغات و اهداف دیگر استفاده کنند. <br>
+•	اطلاعات، عکس یا مشخصات شخص دیگری را بدون اجازه او استفاده کند. <br>
+•	اطلاعات حساب شخصی دیگر را بدون اجازه او استفاده کند. <br>
+•	تلاشی برای تخریب یا رخنه به سیستم، خط سایت، جعل و غیره انجام دهد. <br>
+•	همکاری در تحریک و تشویق شخص ثالث در هر یک از موارد بالا انجام دهد. <br>
+سایت حق بررسی و تحقیق و پیگرد قانونی را در هر یک از موارد بالا تا بالاترین حد قانونی دارد. <br>
+',
+
+    //////////////////////////////////////////
+    'tltFeedBack' => 'FeedBack',
+    'tltFeedBackDetails' => 'FeedBack Details',
+    'tltTransactions' => 'Transactions',
+    'tltTransactionDetails' => 'Transaction Details',
+    'tltForgetPassword' => 'Forget Password',
+    'tltUsersList' => 'List of users',
+    'tltUsersDetails' => 'User information',
+    'tltAboutUs' => 'About us',
+    'tltDashboard' => 'Dashboard',
+    'tltReserveDetails' => 'Reserve details',
+    'tltReserveList' => 'Reserve list',
+    'tltGardenSearch' => 'Search Gardens',
+    'tltComments' => 'Comments',
+    'tltCommentsList' => 'Comments list',
+    'tltCommentsAdd' => 'Add new comment',
+    'tltMainPage' => 'Main page',
+    'tltDialogUploading' => 'Uploading',
+    'tltDialogUploaded' => 'Uploaded',
+    'tltTermsOfUse' => 'Terms of use',
+    'tltHome' => 'Home',
+    'tltContactUs' => 'Contact Us',
+    'tltDialogProcessing' => 'Processing....',
+    'tltGardenDetails' => 'Garden details',
+    'tltTicketDetails' => 'Ticket details',
+    'tltGardens' => 'Gardens',
+    'tltTourDetails' => 'Tour details',
+    'tltTours' => 'تورها',
+    'tltGardenEdit' => 'ویرایش باغ',
+    'tltTourEdit' => 'ویرایش تور',
+    'tltGarden' => 'باغ',
+    'tltTour' => 'تور',
+///////////////////api messages///////////////
+    'msgErrorUndefined' => 'undefined error',
+    'msgErrorUserExist' => 'user alredy exist',
+    'msgErrorRegisterFail' => 'registeration error',
+    'msgErrorLoginFail' => 'login failed',
+    'msgErrorTokenMismach' => 'Token Mismach',
+    'msgErrorDefectiveInformation' => 'Defective information',
+    'msgErrorTokenBlaklisted' => 'Token is Blacklisted',
+    'msgErrorItemExist' => 'item alredy exist',
+    'msgErrorInsertFail' => 'insert failed',
+    'msgInvalidFileSize' => 'invalid file size',
+    'msgErrorUpdateFail' => 'update failed',
+    'msgErrorUnauthorizedUser' => 'Unauthorized user',
+    'msgErrorUnauthorizedAccess' => 'Unauthorized access',
+    'msgErrorDeleteFail' => 'Delete failed',
+    'msgErrorOperationFail' => 'Operation failed',
+    'msgErrorInvalidPassword' => 'Password is invalid',
+    'msgErrorMismatchPassword' => 'Mismatch in passwords',
+    'msgErrorEmailExist' => 'email already exist',
+    'msgErrorItemNotExist' => 'item does not exist',
+    'msgErrorNotEnoughCharge' => 'Not enough charge',
+    'msgErrorWrongPhoneCode' => 'unregistered phone',
+    'msgErrorInvalidPublicKey' => 'invalid key',
+    'msgErrorLicenseNotRead' => 'please read user Agreement',
+    'msgErrorInvalidInviterCode' => 'invalid inviter key',
+    'msgErrorWrongCaptcha' => 'Wrong Captcha',
+    'msgErrorWrongEmail' => 'Wrong Email',
+    'msgErrorGardenInactive' => 'Garden is inactive',
+    'msgErrorTourInactive' => 'Tour is inactive',
+    'msgErrorReservedDate' => 'Date and time already reserved',
+    'msgErrorReservedDateExist' => 'A reserved date and shift exist in your selection',
+    'msgErrorReservedDateIncorrect' => 'Reserved days are incorrect',
+    'msgErrorReservedDateAfterToday' => 'Reserved days must be after today',
+    'msgErrorGender' => 'Gender is not included',
+    'msgErrorAge' => 'Unauthorized age',
+    'msgErrorInvalidReserveDate' => 'Reserved days are outside of authorized dates',
+    'msgErrorCapacity' => 'The remaining capacity is less than the number of people entered',
+    'msgErrorNationalCode' => 'کد ملی وارد شده اشتباه می باشد',
+    'msgErrorMobileNumber' => 'شماره تلفن وارد شده اشتباه می باشد',
+    'msgErrorWrongDate' => 'تاریخ وارد شده قابل قبول نمی باشد',
+    'msgErrorReserveShift' => 'شیفت انتخاب شده غیر فعال می باشد',
+    'msgErrorHoliday' => 'یکی از روزهای انتخاب شده تعطیل می باشد',
+    'msgErrorTermsOfUse' => 'لطفا تایید کنید که شرایط استفاده را پذیرفته اید',
+    'msgErrorBirthDate' => 'لطفا تاریخ تولد را انتخاب نمایید',
+    'msgErrorTransactionReserveNotSet' => 'رزرو مورد نظر برای این تراکنش یافت نشد',
+    'msgErrorUserNamePassword' => 'نام کاربری یا رمز عبور اشتباه می باشد',
+
+
+    'msgTransactionZarinPalBelowSilverLevel' => 'User level is below silver level',
+    'msgTransactionZarinPalDefectiveInformation' => 'Defective information',
+    'msgTransactionZarinPalCanNotEditRequest' => 'Can not edit request',
+    'msgTransactionZarinPalFinancialOperationNotFind' => 'Financial operation not find',
+    'msgTransactionZarinPalIdValidationTime' => 'Id validation time error',
+    'msgTransactionZarinPalIncorrectAdditionalData' => 'Incorrect Additional Data',
+    'msgTransactionZarinPalIncorrectIpOrMerchantCode' => 'Incorrect Authorization information',
+    'msgTransactionZarinPalMethodAccessNotAllowed' => 'Access method error',
+    'msgTransactionZarinPalOperationSuccessful' => 'Operation successful',
+    'msgTransactionZarinPalOperationSuccessfulTransactionVerificationAlredyDone' => 'Operation successful and payment verification alredy done',
+    'msgTransactionZarinPalRequestArchived' => 'Request is archived',
+    'msgTransactionZarinPalRequestNotFind' => 'Request is not find',
+    'msgTransactionZarinPalShaparakRestrictionTransaction' => 'Shaparak restriction in payment value',
+    'msgTransactionZarinPalTransactionCountExceeded' => 'Transaction time is exceeded',
+    'msgTransactionZarinPalTransactionFailed' => 'Transaction failed',
+    'msgTransactionZarinPalTransactionTransactionMismatch' => 'Transaction and payment mismatch',
+    'msgError404' => '404 page does not exist',
+    'msgError401' => '401 you are not allowed to access this page',
+
+    'msgOperationSuccess' => 'Operation Successful',
+    'msgOperationFailed' => 'Operation Error',
+    'msgNoPictureUploaded' => 'No picture has been uploaded',
+    'msgSiteResponsive' => 'Responsive',
+    'msgCopyRights' => 'All rights reserved - Copyright © ShirazPicnic 2018',
+    'msgAreYouSure' =>  'Are you sure?',
+    'msgCantRevert' => 'You won\'t be able to revert this!',
+    'msgWarning' =>  'Warning',
+    'msgTransactionResult' => 'Transaction result',
+    'msgDialogProcessing' =>  'Please wait ... ',
+    'msgDialogUploaded' => 'Your file uploaded successfully',
+    'msgDialogError' => 'An error occurred....',
+    'msgLoginSuccessful' => 'You have successfuly logged in...',
+    'msgMaxCountReached' => 'Maximum count has been reached...',
+    'msgComingSoon' => 'The page is under construction …',
+    'msgStatusSettled' => 'Settled',
+    'msgStatusNotSettled' => 'Not settled',
+    'msgCaptchaLoading' => 'Loading Captcha...',
+    'msgCaptchaLoadingWait' => 'If it does not load, please disable Adblock!',
+
+
+    /////////////////Email pages//////////////////////
+    'msgEmailRecoverySubject' => 'Request a password change',
+    'msgEmailRecoveryDescription1' => 'A request to change your password has been received',
+    'msgEmailRecoveryDescription2' => 'Dear user',
+    'msgEmailRecoveryDescription3' => 'Please click on the link below, clicking this link will mean your confirmation to change your password on the site. After clicking on this link, your password will be changed to the requested password',
+    'msgEmailRecoveryDescription4' => 'Click on the link below',
+    'msgEmailRecoveryDescription5' => 'Click this link to confirm your password change',
+    'msgEmailRecoveryDescription6' => 'Your new password',
+    'msgEmailRecoveryDescription7' => 'Email Support Unit',
+    'msgEmailRecoveryDescription8' => 'ShirazPicnic',
+
+    'msgEmailRegisterSubject' => 'Sign up in ShirazPicnic',
+    'msgEmailRegisterDescription1' => 'Request a password change',
+    'msgEmailRegisterDescription2' => 'Registration Information',
+    'msgEmailRegisterDescription3' => 'Email',
+    'msgEmailRegisterDescription4' => 'Password',
+    'msgEmailRegisterDescription5' => 'Contact us',
+    'msgEmailRegisterDescription6' => 'Email of Support Unit',
+    'msgEmailRegisterDescription7' => 'ShirazPicnic',
+
+
+
+    'msgEmailInformSubject' => 'New message for you',
+    'msgEmailInformDescription1' => 'New message has been sent for you',
+    'msgEmailInformDescription2' => 'Message text',
+    'msgEmailInformDescription3' => 'Contact us',
+    'msgEmailInformDescription4' => 'Email of Support Unit',
+    'msgEmailInformDescription5' => 'ShirazPicnic',
+
+
+    /// ///////////////////////////////////////////////
+    /////////////////////FAQ/////////////////////////
+    'tlt_faq_1' => 'آیا لغو رزرو مشمول جریمه می شود؟',
+    'des_faq_1' => 'بله، درصد جریمه ی استرداد 10% از مبلغ واریزی می باشد و بقیه مبلغ ظرف مدت یک هفته کاری به شماره حساب دریافتی از کاربر عودت داده می شود.',
+
+    'tlt_faq_2' => 'چگونه می توانم رزرو خود را لغو کنم؟',
+    'des_faq_2' => ' اگر تصمیم بر لغو رزرو داشتید، با ارسال پیامی با عنوان "درخواست لغو رزرو" در قسمت ارتباط با ما، در خواست خود را اعلان نمایید.',
+
+    'tlt_faq_3' => 'آیا عضویت در وب سایت شیراز پیک نیک برای ثبت رزرو الزامیست؟',
+    'des_faq_3' => 'خیر. تمامی اطلاعات مورد نیاز در صفحه رزرو دریافت می شود.',
+
+    'tlt_faq_4' => 'چگونه می توانم در وب سایت شیراز پیک نیک تور یا باغ خود را جهت رزرو ثبت کنم؟',
+    'des_faq_4' => 'در قسمت "ارتباط با ما" پیامی با عنوان "درخواست ثبت باغ" یا "درخواست ثبت تور" برای ما ارسال فرمایید و مشخصات تماس خود را نیز در متن پیام ذکر نمایید تا کارشناسان ما در اسرع وقت با شما جهت هماهنگی های لازم تماس بگیرند',
+
+    'tlt_faq_5' => 'من قبلا در وب سایت شیراز پیک نیک ثبت نام کرده ام، چگونه می توانم وارد حساب کاربری ام شوم؟',
+    'des_faq_5' => 'در پایین صفحه اصلی روی دکمه ی "ورود همکاران" کلیک کنید تا به صفحه ی ورود به سیستم هدایت شوید و سپس با وارد کردن مشخصات مورد نیاز و فشردن دکمه "ورود" به پنل کاربری خود هدایت خواهید شد.',
+
+    'tlt_faq_6' => 'چگونه می توانم اطلاعات پروفایل کاربری خود را تکمیل کنم؟',
+    'des_faq_6' => 'با ارسال پیامی مبنی بر "درخواست تغییر اطلاعات" در قسمت ارتباط با ما و ذکر کردن شماره تلفن خود کارشناسان ما در اسرع وقت با شما تماس گرفته و تغییرات مورد نظر شما را در وب سایت انجام خواهند داد.',
+
+    'tlt_faq_7' => 'چگونه می توانم قبل از ثبت رزرو، برای مشورت با شیراز پیک نیک تماس بگیرم و سوالات و مشکلات مربوط به خرید خود را مطرح کنم؟',
+    'des_faq_7' => 'شما می‌توانید برای طرح سوال یا انجام هرگونه تغییر در طرح خریداری شده خود با شماره 09029027302 تماس بگیرید. همچنین می‌توانید از طریق پست الکترونیکی info@shirazpicnic.ir   با ما در تماس باشید.',
+
+    ////////////////////////////////////////////////
+];
