@@ -1,0 +1,7 @@
+﻿http://www.shirazpicnic.ir/
+http://www.shirazpicnic.ir/gardens/listAll
+http://www.shirazpicnic.ir/tours/listAll
+http://www.shirazpicnic.ir/users/login
+http://www.shirazpicnic.ir/users/reset
+http://www.shirazpicnic.ir/faq
+http://www.shirazpicnic.ir/termsOfUse
