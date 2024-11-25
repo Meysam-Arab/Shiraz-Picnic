@@ -10,17 +10,17 @@ return [
 	// you can change default route from sms-admin to anything you want
 	'route' => 'sms-admin',
 	// SMS.ir Api Key
-	//'api-key' => env('SMSIR-API-KEY','50ba3e8d9a9e1f4b1bf44cc'),
+	//'api-key' => env('SMSIR-API-KEY',''),
 	// SMS.ir Secret Key
-	//'secret-key' => env('SMSIR-SECRET-KEY','(1)O!@H3$$@*4@5'),
+	//'secret-key' => env('SMSIR-SECRET-KEY',''),
 	// Your sms.ir line number
-	//'line-number' => env('SMSIR-LINE-NUMBER','30004747471858'),
+	//'line-number' => env('SMSIR-LINE-NUMBER',''),
 	
-	'api-key' => env('SMSIR-API-KEY','ce9cddac7f04d00ddda8bb53'),
+	'api-key' => env('SMSIR-API-KEY',''),
 	// SMS.ir Secret Key
-	'secret-key' => env('SMSIR-SECRET-KEY','meysam@fardan7e.ir'),
+	'secret-key' => env('SMSIR-SECRET-KEY',''),
 	// Your sms.ir line number
-	'line-number' => env('SMSIR-LINE-NUMBER','30004747471858'),
+	'line-number' => env('SMSIR-LINE-NUMBER',''),
 	// ======================================================================
 	// set true if you want log to the database
 	'db-log' => false,
