@@ -1,4 +1,9 @@
 # Shiraz-Picnic
+
+
+![shiraz picnic Image](https://github.com/Meysam-Arab/Shiraz-Picnic/blob/main/picnic/public/images/logo.png)
+
+
 A comprehensive system for booking and organizing recreational tours
 
 ## Project Status
